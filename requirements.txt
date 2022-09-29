@@ -7,6 +7,7 @@ scipy==1.5.2
 tensorboard==2.3.0
 torch
 torchvision
+torchcrepe
 Unidecode==1.1.1
 torchaudio
 pyworld
